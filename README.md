@@ -11,7 +11,7 @@ I'm working through each challenge myself and trying to understand what's happen
 ### Set 1 - Basics
 
 - [x] Challenge 1 - Convert hex to Base64
-- [ ] Challenge 2 - Fixed XOR
+- [x] Challenge 2 - Fixed XOR
 - [ ] Challenge 3 - Single-byte XOR cipher
 - [ ] Challenge 4 - Detect single-character XOR
 - [ ] Challenge 5 - Implement repeating-key XOR
